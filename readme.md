@@ -27,3 +27,5 @@ Milestones
 Programa funcional en JS. Las células se quedan pegadas la pared.
 Programa 100% testeado.
 3.a Añadir HTML/CSS. 3.b Modificar JS para que: a. Las células sigan avanzando al llegar a la pared y desaparezcan. b. Las células salgan por un lado de la cuadrícula y aparezcan por el otro.
+
+Una grid de 3\*3 con una celula
